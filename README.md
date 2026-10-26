@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Josh
-- 👀 I’m new and interested in coding 
-- 🌱 I’m currently learning how to be a frontend developer
-- 💞️ I’m looking to collaborate on anything to be honest but im still pretty new
-- 📫 You can reach me through my email "Joshisdre@gmail.com"
+### 👋 Hey, I'm Josh, IU Bloomington student 
 
-<!---
-AkaJoshh/AkaJoshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Currently working on**
+- `clinic-network-lab`: a segmented clinic network in Cisco Packet Tracer (VLANs, DHCP, DNS, ACLs) with Wireshark analysis
+- `windows-it-toolkit`: PowerShell scripts for IT and security tasks (failed-login detection, system reports, user audits)
+
+**Learning:** Network+ · Windows home lab
+
+**Contact:** [Email](mailto:Joshuaadebawore@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joshua-adebawore-30996230b/)
